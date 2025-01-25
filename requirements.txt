@@ -1,0 +1,6 @@
+gradio
+google-generativeai
+newspaper3k
+bs4
+requests
+lxml_html_clean
