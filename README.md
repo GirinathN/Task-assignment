@@ -12,18 +12,12 @@
 
 ## 🛠️ Installation  
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/ai-article-summarizer.git
-   cd ai-article-summarizer
-   ```
-
-2. **Install dependencies**  
+1. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set up your Google Gemini API key**  
+2. **Set up your Google Gemini API key**  
    - Replace `"YOUR_API_KEY"` in `app.py` with your actual API key.
 
 ---
@@ -82,17 +76,10 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing  
-Feel free to fork this repository, submit issues, or make pull requests to improve the project.  
-
----
-
 ## 📜 License  
 This project is licensed under the **MIT License**.  
 
 ---
 
 ## ✨ Author  
-👨‍💻 **Your Name** – [GitHub Profile](https://github.com/yourusername)  
-
-🚀 *If you like this project, give it a ⭐ on GitHub!*  
+👨‍💻 **Girinath N** – [GitHub Profile](https://github.com/GirinathN)  
