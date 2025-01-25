@@ -46,7 +46,7 @@ After running, a **Gradio link** will be generated. Open it in your browser and 
 3. Get an AI-generated **summary**  
 
 **Screenshot:**  
-![alt text](image-1.png) 
+ ![Screenshot 2025-01-25 214508](https://github.com/user-attachments/assets/dd4764f9-db0a-47da-9162-85ecc4dfc97c)
 
 ---
 
@@ -74,7 +74,8 @@ pip install -r requirements.txt
 
 ---
 
-## 📌 Roadmap  
+## 📌 Roadmap
+
 - [ ] Improve text extraction for different article formats  
 - [ ] Add more AI models (like Llama, Mistral, or local models)  
 - [ ] Implement caching for repeated summaries  
